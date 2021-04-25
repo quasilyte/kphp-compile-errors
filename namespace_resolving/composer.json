@@ -1,0 +1,15 @@
+{
+    "name": "isharipov/namespaces-test",
+    "authors": [
+        {
+            "name": "Iskander Sharipov",
+            "email": "i.sharipov@corp.vk.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ast\\": "lib"
+        }
+    },
+    "require": {}
+}
